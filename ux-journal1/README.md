@@ -1,14 +1,16 @@
 # My First Journal Entry
----
-Ever since I was a kid, I was always that annoying voice questioning anything and everything, and I really just wanted to understand how things work. It started simple, 
-but I truly feel I will always be a lifelong learner, and as I've grown older, a critic of things I feel don't make sense.
 
-In a very non-child like move, I actually bought a new car this last year and it's great! The only thing that frustrates me about it is the interface for the radio,
-and I'm going to pick on its **learnabilty** because it deserves it.
+Ever since I was a kid, I was always that annoying voice questioning anything and everything, and I really just wanted to understand how things work. It started simple, but I truly feel I will always be a lifelong learner, and as I've grown older, a critic of things I feel don't make sense.
+
+In a very non-child like move, I actually bought a new car this last year and it's great! The only thing that frustrates me about it is the interface for the radio, and I'm going to pick on its **learnabilty** because honestly, it deserves it.
 
 So a bit of background, the car is a 2017 Mazda CX-5 and it features an "Infotainment" in-car entertainment system. Basically there's a small screen (larger than most smartphones,
-smaller than most laptops) situated in the dash of the car, and it's all controlled by a couple of buttons and what I can only describe as a joystick/dial hybrid.
+but smaller than most laptops) situated in the dash of the car, and it's all controlled by a couple of buttons, a volume knob that you can click to mute the sound, and what I can only describe as a joystick/knob hybrid.
 
 ![Dashview](https://github.com/UsabilityEngineering/ux-portfolio-Brackett1/blob/master/assets/dash.jpg)
 
 ![Buttons](https://github.com/UsabilityEngineering/ux-portfolio-Brackett1/blob/master/assets/buttons.jpg)
+
+Now to be fully honest, I actually feel pretty comfortable with the system now and it's not that bad after having it a couple months. I have found workarounds to the things I feel could be a lot easier and know the limitations, but the whole system feels really foreign to anyone that's used to the usual array of buttons in most cars.
+
+It's really a paradigm shift that takes a while to get on board with and was pretty frustrating at times. The "knobstick" if you will, is basically the main control and allows you to either turn clockwise to go right, and counter-clockwise to go left among the icons on the screen, or to sort of push it like a directional joystick to the left or right. The buttons each take you to a different sub-menu as well if you want to take shortcuts but if not you have to click the knobstick like a mouse if you want to select an icon or click a button you have selected
