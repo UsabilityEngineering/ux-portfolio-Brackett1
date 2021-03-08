@@ -3,6 +3,7 @@
 
 ## UX Team Project
 
+### [Journal Entry 1](https://github.com/UsabilityEngineering/TaskMasters)
 
 ## UX Journal
 
