@@ -1,5 +1,12 @@
 # Anthony's Immersion into User eXperience 
 
+will put a photo here at some point
+ __________________
+|                  |
+|                  |
+|                  |
+|                  |
+|__________________|
 
 ## UX Team Project
 
