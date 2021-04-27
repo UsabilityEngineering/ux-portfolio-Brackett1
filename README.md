@@ -4,7 +4,7 @@ will put a photo here at some point
 
 ## UX Team Project
 
-### [TaskMasters](https://github.com/UsabilityEngineering/TaskMasters/)
+### [TaskMasters](https://usabilityengineering.github.io/TaskMasters/)
 
 ## UX Journal
 
