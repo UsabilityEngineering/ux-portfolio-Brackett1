@@ -8,6 +8,6 @@ will put a photo here at some point
 
 ## UX Journal
 
-### [Journal Entry 1](https://github.com/UsabilityEngineering/ux-portfolio-Brackett1/tree/master/ux-journal1)
+### [Journal Entry 1](ux-journal1/)
 
 
