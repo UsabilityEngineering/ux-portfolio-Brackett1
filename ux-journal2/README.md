@@ -1,4 +1,4 @@
-# My Second Journal Entry: WHy my Microwave is Terrible
+# My Second Journal Entry: Why my Microwave is Terrible
 
 ## by Anthony Brackett
 
