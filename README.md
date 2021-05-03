@@ -10,4 +10,5 @@ will put a photo here at some point
 
 ### [Journal Entry 1](ux-journal1/)
 
+### [Journal Entry 2](ux-journal2/)
 
