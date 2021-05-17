@@ -11,9 +11,9 @@ In a very non-child like move, I actually bought a new car this last year and it
 So a bit of background, the car is a 2017 Mazda CX-5 and it features an "Infotainment" in-car entertainment system. Basically there's a small screen (larger than most smartphones,
 but smaller than most laptops) situated in the dash of the car, and it's all controlled by a couple of buttons, a volume knob that you can click to mute the sound, and what I can only describe as a joystick/knob hybrid.
 
-![Dashview](assets/dash.jpg)
+![Dashview](/assets/dash.jpg)
 
-![Buttons](https://github.com/UsabilityEngineering/ux-portfolio-Brackett1/blob/master/assets/buttons.jpg)
+![Buttons](/assets/buttons.jpg)
 
 Now to be fully honest, I actually feel pretty comfortable with the system now and it's not that bad after having it a couple months. I have found workarounds to the things I feel could be a lot easier and know the limitations so it is **memorable**, but the whole system feels really foreign to anyone that's used to the usual array of buttons in most cars.
 
@@ -23,7 +23,7 @@ I'm fairly confident that most people would be pretty confused if they sat in th
 
 Many people are familiar with steering wheel controls which the car does have (ignore the grossness sorry, it's much worse because of the zoom):
 
-![WheelButtons](https://github.com/UsabilityEngineering/ux-portfolio-Brackett1/blob/master/assets/Steering_wheel.jpg)
+![WheelButtons](/assets/Steering_wheel.jpg)
 
 but the "seek" buttons for surfing channels actually only considers stations that you have "favorited" by clicking the star button by the knobstick by default, so it's not really **effective** for a first time user. You have to hold the button to "skip to next good signal" which is pretty slow and it beeps loudly each time. 
 
@@ -32,4 +32,4 @@ There's also that info button in the middle of those two, which does something t
 I'll leave you with the annoying warning message the screen displays **every time** you drive it, that must be dismissed before you can really do anything else.
 
 
-![Error](https://github.com/UsabilityEngineering/ux-portfolio-Brackett1/blob/master/assets/Error.jpg)
+![Error](/assets/Error.jpg)
