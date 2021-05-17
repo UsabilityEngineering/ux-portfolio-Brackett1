@@ -11,9 +11,9 @@ In a very non-child like move, I actually bought a new car this last year and it
 So a bit of background, the car is a 2017 Mazda CX-5 and it features an "Infotainment" in-car entertainment system. Basically there's a small screen (larger than most smartphones,
 but smaller than most laptops) situated in the dash of the car, and it's all controlled by a couple of buttons, a volume knob that you can click to mute the sound, and what I can only describe as a joystick/knob hybrid.
 
-![](/assets/dash.jpg)
+![](/blob/master/assets/dash.jpg)
 
-![](/assets/buttons.jpg)
+![](/blob/master/assets/buttons.jpg)
 
 Now to be fully honest, I actually feel pretty comfortable with the system now and it's not that bad after having it a couple months. I have found workarounds to the things I feel could be a lot easier and know the limitations so it is **memorable**, but the whole system feels really foreign to anyone that's used to the usual array of buttons in most cars.
 
