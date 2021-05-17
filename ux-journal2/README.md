@@ -10,7 +10,7 @@ My problem is that I literally never use about half of the buttons on it, which 
 
 I am honestly not even exagerrating the fact that I do not use *many* of these buttons. Here's what they look like.
 
-![The buttons](https://github.com/UsabilityEngineering/ux-portfolio-Brackett1/blob/master/assets/somanybuttons.jpg)
+![The buttons](/assets/somanybuttons.jpg)
 
 It could just be that I'm just not a proficient microwave operator, or that I don't typically go for microwaveable pizzas and dinner plates, but it feels like they were just listing things a microwave *might* be good at cooking. I personally would prefer to have just simpler buttons or maybe even a "quiet mode" to stop unnecessary beeping.
 
