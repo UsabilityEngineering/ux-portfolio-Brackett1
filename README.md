@@ -1,6 +1,6 @@
 # Anthony's Immersion into User eXperience 
 
-[](/assets/Selfie.jpg)
+![](/assets/Selfie.jpg)
 
 ## UX Team Project
 
