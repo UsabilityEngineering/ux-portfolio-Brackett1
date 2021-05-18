@@ -1,4 +1,4 @@
-# My First Journal Entry
+# My First Journal Entry: Are you not Infotained? 
 
 ## Anthony Brackett
 
